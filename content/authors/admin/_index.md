@@ -69,4 +69,4 @@ Hello!! Welcome to my page. I am an undergrad student at department of Computer 
 
 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+
