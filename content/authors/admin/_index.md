@@ -49,7 +49,7 @@ social:
         
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: static/uploads/resume.pdf
     
     
 # Link to a PDF of your resume/CV.
