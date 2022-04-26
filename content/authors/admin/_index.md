@@ -47,9 +47,9 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/souptik-h-322b95b3/
         
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
+  # - icon: cv
+  #  icon_pack: ai
+  #  link: uploads/resume.pdf
     
     
 # Link to a PDF of your resume/CV.
@@ -69,4 +69,4 @@ Hello!! Welcome to my page. I am an undergrad student at department of Computer 
 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
