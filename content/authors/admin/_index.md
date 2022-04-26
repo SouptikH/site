@@ -19,7 +19,7 @@ bio: My research interests include SAT/SMT, Algorithms, Cryptography
 # Interests to show in About widget
 interests:
   - Cryptography
-  - Theoritical Computer Science
+  - Theoretical Computer Science
   - Artificial Intelligence
 
 # Education to show in About widget
@@ -46,13 +46,16 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/souptik-h-322b95b3/
-
+        
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
+    
+    
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
 # and uncomment the lines below.
-#   - icon: cv
-#     icon_pack: ai
-#     link: uploads/resume.pdf
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'haldersouptik@gmail.com'
@@ -61,7 +64,9 @@ email: 'haldersouptik@gmail.com'
 highlight_name: true
 ---
 
-Souptik Halder is a undergrad student at Jadavpur University. His research interests include SAT/SMT, Algorithms, Cryptography. 
+Hello!! Welcome to my page. I am an undergrad student at department of Computer Science & Engineering of Jadavpur University, Kolkata, India . My research interests include Algorithms, Cryptography, Deep Learning & Artificial Intelligence.
+
+
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
