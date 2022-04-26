@@ -22,12 +22,6 @@ interests:
   - Theoretical Computer Science
   - Artificial Intelligence
 
-# Education to show in About widget
-# education:
-#   courses:
-#     - course: BE Computer Science & Engineering
-#       institution: Jadavpur University
-#       year:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
