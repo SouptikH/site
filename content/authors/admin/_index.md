@@ -27,7 +27,7 @@ education:
   courses:
     - course: BE Computer Science & Engineering
       institution: Jadavpur University
-      year: Present
+      year:
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
