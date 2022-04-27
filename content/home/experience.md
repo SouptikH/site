@@ -29,7 +29,7 @@ experience:
     location: Kolkata
     date_start: '2020-11-27'
     date_end: ''
-    description: studying at Department of Computer Science & Engineering
+    description: Department of Computer Science & Engineering
 
 
   - title: Student
