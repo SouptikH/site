@@ -27,10 +27,14 @@ content:
   filter_button:
     - name: All
       tag: '*'
+    - name: Cryptography
+      tag: Cryptography
+    - name: Blockchain
+      tag: Blockchain
+    - name: SAT/SMT
+      tag: SAT/SMT
     - name: Deep Learning
       tag: Deep Learning
-    - name: Other
-      tag: Demo
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
