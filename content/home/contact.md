@@ -27,16 +27,7 @@ content:
   # Contact details (edit or remove options as required)
   email: haldersouptik@gmail.com
   phone: +91 9123372668
-  address:
-    street: 132, Raja Subodh Chandra Mallick Rd,
-    city: Jadavpur
-    region: Kolkata
-    postcode: '700032'
-    country: India
-    country_code: IN
-  coordinates:
-    latitude: '22.2947'
-    longitude: '88.2216'
+
 
 
 
