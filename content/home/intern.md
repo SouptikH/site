@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: National University of Singapore
     company_url: https://www.nus.edu.sg/
-    company_logo: org-gc
+    company_logo: nus_logo_full-horizontal
     location: Singapore
     date_start: '2022-05-24'
     date_end: ''
