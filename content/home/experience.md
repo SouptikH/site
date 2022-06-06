@@ -32,7 +32,7 @@ experience:
     description: Department of Computer Science & Engineering
 
 
-  - title: Student
+  - title: High School
     company: Jadavpur Vidyapith
     company_url: 'https://jadavpurvidyapith.org/'
     company_logo: org-x
