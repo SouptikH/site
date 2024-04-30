@@ -26,7 +26,7 @@ experience:
   - title: Summer Intern
     company: Indian Statistical Institute, Kolkata
     company_url: https://isical.ac.in/
-    company_logo: nus_logo_full-horizontal
+    company_logo: isilogo
     location: Kolkata
     date_start: '2023-06-27'
     date_end: '2023-08-09'
@@ -36,7 +36,7 @@ experience:
   - title: Research Intern
     company: National University of Singapore
     company_url: https://www.nus.edu.sg/
-    company_logo: isilogo
+    company_logo: nus_logo_full-horizontal
     location: Singapore
     date_start: '2022-05-24'
     date_end: '2022-08-24'
