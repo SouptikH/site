@@ -6,7 +6,7 @@ title: Souptik Halder
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student of Computer Science & Engineering
+role: Undergraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -18,9 +18,10 @@ bio: My research interests include SAT/SMT, Algorithms, Cryptography
 
 # Interests to show in About widget
 interests:
-  - Cryptography
-  - Theoretical Computer Science
+  - Constrained Sampling and Counting
   - Artificial Intelligence
+  - Formal Methods
+  - Algorithms
 
 
 # Social/Academic Networking
@@ -58,7 +59,7 @@ email: 'haldersouptik@gmail.com'
 highlight_name: true
 ---
 
-Hello!! Welcome to my page. I am an undergrad student at department of Computer Science & Engineering of Jadavpur University, Kolkata, India . My research interests include Algorithms, Cryptography, Deep Learning & Artificial Intelligence.
+Hello!! Welcome to my page. I am an undergrad student at department of Computer Science & Engineering of Jadavpur University, Kolkata, India . My research interests include Algorithms, Theoretical CS, Constrained Counting and Sampling, Formal Methods, Artificial Intelligence.
 
 
 
