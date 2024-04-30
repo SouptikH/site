@@ -14,7 +14,7 @@ organizations:
     url: http://jaduniv.edu.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include SAT/SMT, Algorithms, Cryptography
+bio: My research interests include Algorithms, Formal Methods, COnstrained Sampling and Counting, String Theory
 
 # Interests to show in About widget
 interests:
