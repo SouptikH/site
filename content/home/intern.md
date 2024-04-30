@@ -28,7 +28,7 @@ experience:
     company_logo: nus_logo_full-horizontal
     location: Singapore
     date_start: '2022-05-24'
-    date_end: ''
+    date_end: '2022-08-24'
     description: Working on constrained sampling and counting
 
 
