@@ -59,7 +59,7 @@ email: 'haldersouptik@gmail.com'
 highlight_name: true
 ---
 
-Hello!! Welcome to my page. I am an undergrad student at department of Computer Science & Engineering of Jadavpur University, Kolkata, India . My research interests include Algorithms, Theoretical CS, Constrained Counting and Sampling, Formal Methods, Artificial Intelligence.
+Hello !!!   Welcome to my page. I am an undergrad student at department of Computer Science & Engineering of Jadavpur University, Kolkata, India . My research interests include Algorithms, Theoretical CS and Artificial Intelligence. I am willing to explore new domains of Science and solve real world problems for scientific advancement of human civilisation. 
 
 
 
