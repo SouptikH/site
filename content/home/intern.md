@@ -29,7 +29,23 @@ experience:
     location: Singapore
     date_start: '2022-05-24'
     date_end: '2022-08-24'
-    description: Working on constrained sampling and counting
+    description: Constrained Sampling and Counting
+
+
+
+design:
+  columns: '2'
+
+  experience:
+  - title: Summer Intern
+    company: Indian Statistical Institute, Kolkata
+    company_url: https://isical.ac.in/
+    company_logo: nus_logo_full-horizontal
+    location: Kolkata
+    date_start: '2023-06-27'
+    date_end: '2023-08-09'
+    description: Counting and Sampling over String Theory
+
 
 
 design:
