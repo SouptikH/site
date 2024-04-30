@@ -31,12 +31,6 @@ experience:
     date_end: '2022-08-24'
     description: Constrained Sampling and Counting
 
-
-
-design:
-  columns: '2'
-
-  experience:
   - title: Summer Intern
     company: Indian Statistical Institute, Kolkata
     company_url: https://isical.ac.in/
