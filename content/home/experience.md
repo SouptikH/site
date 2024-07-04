@@ -22,13 +22,25 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+
+  - title: Postgraduate Student
+    company: Indian Statistical Institute
+    company_url: 'http://www.isical.ac.in/'
+    company_logo: isilogo
+    location: Kolkata
+    date_start: '2024-07-22'
+    date_end: ''
+    description: Computer Science
+  
+
+
   - title: Undergraduate Student
     company: Jadavpur University
     company_url: 'http://www.jaduniv.edu.in/'
     company_logo: org-gc
     location: Kolkata
     date_start: '2020-11-27'
-    date_end: ''
+    date_end: '2020-07-21'
     description: Department of Computer Science & Engineering
 
 
