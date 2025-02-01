@@ -6,22 +6,23 @@ title: Souptik Halder
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate Student
+role: PostGraduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Jadavpur University
-    url: http://jaduniv.edu.in/
+  - name: Indian Statistical Institute, Kolkata
+    url: http://isical.ac.in
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Algorithms, Formal Methods, Constrained Sampling and Counting, String Theory
+bio: My research interests include Formal Methods, Algorithms, Model Counting, Verification
 
 # Interests to show in About widget
 interests:
-  - Constrained Sampling and Counting
-  - Artificial Intelligence
+  - Algorithms 
   - Formal Methods
-  - Algorithms
+  - Model Counting
+  - Theoretical Computer Science
+  - Artificial Intelligence
 
 
 # Social/Academic Networking
@@ -59,7 +60,13 @@ email: 'haldersouptik@gmail.com'
 highlight_name: true
 ---
 
-Hello !!!   Welcome to my page. I am an undergrad student at department of Computer Science & Engineering of Jadavpur University, Kolkata, India . My research interests include Algorithms, Theoretical CS and Artificial Intelligence. I am willing to explore new domains of Science and solve real world problems for scientific advancement of human civilisation. 
+Welcome!
+
+I am a postgraduate student at the Indian Statistical Institute, Kolkata, passionate about designing scalable and efficient algorithms to tackle computationally hard problems. My research focuses on pushing the boundaries of algorithmic design, and you can find a more detailed overview in my resume.
+
+Beyond my core research, I am deeply fascinated by Mathematics, Astrophysics, Molecular Biology, and many other disciplines that unveil the intricacies of our universe. I aspire to explore the intersection of these fields with Computer Science, striving to unlock new insights and possibilities.
+
+My ultimate goal is to contribute to a deeper understanding of the laws of nature and to play a role in building a sustainable future for life on Earth.
 
 
 
