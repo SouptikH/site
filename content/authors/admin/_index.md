@@ -11,7 +11,7 @@ role: PostGraduate Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Indian Statistical Institute, Kolkata
-    url: http://isical.ac.in
+    url: https://www.isical.ac.in/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Formal Methods, Algorithms, Model Counting, Verification
@@ -19,8 +19,8 @@ bio: My research interests include Formal Methods, Algorithms, Model Counting, V
 # Interests to show in About widget
 interests:
   - Algorithms 
-  - Formal Methods
   - Model Counting
+  - Formal Verification
   - Theoretical Computer Science
   - Artificial Intelligence
 
